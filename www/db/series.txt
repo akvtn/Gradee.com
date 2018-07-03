@@ -1,0 +1,17 @@
+id | title | rating
+1 | Stranger things | 9.2
+2 | House of Cards | 9.6
+3 | Taboo | 9.0
+4 | Billions | 8.7
+5 | Game of Thrones | 9.8
+6 | Bates Motel | 8.4
+7 | Shameless | 8.9
+8 | Daredevil | 8.8
+9 | Arrow | 7.7
+10 | The Expanse | 8.5
+11 | Breaking Bad | 9.5
+12 | Vikings | 8.5
+13 | Better Call Saul | 8.4
+14 | Grimm | 8.2
+15 | Peaky Blinders | 8.7
+16 | The Punisher | 8.9

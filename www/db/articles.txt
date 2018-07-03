@@ -1,0 +1,9 @@
+id | title | series | image | author | date | likes
+9 | Sometimes you have to kill to preserve | The Expanse | 9.jpg | user111 | December 10, 2017 | 0
+8 | Truth | Punisher | 8.jpg | admin | December 10, 2017 | 0
+7 | Shameless | Shameless | 7.jpg | Petee | Hovember 25, 2017 | 10
+6 | Billions | Billions | 6.jpg | JareD | September 10, 2017 | 18
+4 | Preacher | Preacher | 4.jpg | JareD | September 10, 2017 | 56
+3 | Welcome to the real world | Bates Motel | 3.jpg | JareD | September 10, 2017 | 98
+2 | Friends do not lie | Stranger things | 2.jpg | seppEE | September 3, 2017 | 100
+1 | There are two kinds of pain | House of Cards | 1.jpg | fennessy | March 10, 2017 | 119

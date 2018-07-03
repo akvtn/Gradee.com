@@ -1,0 +1,6 @@
+id | username | email | password | admin | banned
+7 | user | user@gmail.com | 0b90fd560042c020c51a47729e679c4a1734559a834a0847a0b2374cb10876fc | 0 | 0
+6 | lol11 | delan.m1@gmail.com | 4a272930cc11b3f739293dd110176bf04b0baeb5db49ec0c067ec76a3ee088f5 | 0 | 0
+5 | Punisher | punish666@gmail.com | 852c55e7b6201866e8ac639e046eea4a29efb6f97eb43199bdd9d996302a36bc | 0 | 1
+2 | fennessy | fennessy@gmail.com | fab89d257c3e1cfd3dc3e4c54af69293d1e67b1ee61b1824da4b91b1335fe86c | 0 | 0
+1 | admin | a.kvtn14@gmail.com | 3b79a1cf07c37b86dfe54f47b7ab7f2d6f6789bc5eb2f621e13103c24acf1c15 | 1 | 0
